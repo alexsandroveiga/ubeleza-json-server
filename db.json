@@ -1,0 +1,136 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Alexsandro Veiga Cliente",
+      "email": "sandro.alex_@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(21) 96468-8830",
+      "active": true,
+      "corporate_name": ""
+    },
+    {
+      "id": 2,
+      "name": "Joneivison Oliveira",
+      "email": "joneivison@ubeleza.com.br",
+      "avatar": "https://avatars.githubusercontent.com/u/59972145?v=4",
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(73) 9955-3301",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Renan Brito",
+      "email": "renanbrito@ubeleza.com.br",
+      "avatar": null,
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(11) 98571-1314",
+      "active": true
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "name": "Alexsandro Veiga",
+      "email": "sandro.alex_@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(21) 96468-8830",
+      "active": true,
+      "corporateName": "",
+      "status": "approved",
+      "corporate_name": ""
+    },
+    {
+      "id": 2,
+      "name": "Joneivison Oliveira",
+      "email": "joneivison@ubeleza.com.br",
+      "avatar": "https://avatars.githubusercontent.com/u/59972145?v=4",
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(73) 9955-3301",
+      "active": true,
+      "corporateName": "",
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "name": "Renan Brito",
+      "email": "renanbrito@ubeleza.com.br",
+      "avatar": null,
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(11) 98571-1314",
+      "active": true,
+      "corporateName": "",
+      "status": "approved"
+    },
+    {
+      "id": 4,
+      "name": "Test User 1",
+      "email": "teste1@ubeleza.com.br",
+      "avatar": null,
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(11) 00000-0000",
+      "active": true,
+      "corporateName": "",
+      "status": "approved"
+    },
+    {
+      "id": 5,
+      "name": "Test User 2",
+      "email": "teste2@ubeleza.com.br",
+      "avatar": null,
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(11) 00000-0000",
+      "active": true,
+      "corporateName": "",
+      "status": "approved"
+    },
+    {
+      "id": 6,
+      "name": "Renan Brito Teste",
+      "email": "renanbrito@ubeleza.com.br",
+      "avatar": null,
+      "cpf": "000.000.000-00",
+      "phoneNumber": "(11) 98571-1314",
+      "active": true,
+      "corporateName": "",
+      "status": "approved",
+      "corporate_name": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alexsandro Veiga",
+      "email": "sandro.alex_@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Joneivison Oliveira",
+      "email": "joneivison@ubeleza.com.br",
+      "avatar": "https://avatars.githubusercontent.com/u/59972145?v=4",
+      "password": "123456",
+      "role": "editor"
+    },
+    {
+      "id": 3,
+      "name": "Renan Brito",
+      "email": "renanbrito@ubeleza.com.br",
+      "avatar": null,
+      "password": "123456",
+      "role": "moderator"
+    },
+    {
+      "id": 4,
+      "name": "Judith Lion",
+      "email": "judith@ubeleza.com.br",
+      "avatar": null,
+      "password": "123456",
+      "role": "admin"
+    }
+  ]
+}
