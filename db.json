@@ -1,5 +1,5 @@
 {
-  "clients": [
+  "customers": [
     {
       "id": 1,
       "name": "Alexsandro Veiga Cliente",
@@ -131,6 +131,77 @@
       "avatar": null,
       "password": "123456",
       "role": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "professional": {
+        "name": "Alexsandro Veiga Cliente",
+        "email": "sandro.alex_@hotmail.com",
+        "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+        "occupation": "Mêcanico Diesel"
+      },
+      "customer": {
+        "name": "Teste Cliente 1"
+      },
+      "payment_method": {
+        "type": "credit-card",
+        "card_number": "1234-1234-1234-1234",
+        "card_holder_name": "Alexsandro Veiga",
+        "card_expiration_date": "12/2021",
+        "card_cvv": "123",
+        "card_brand": "visa",
+        "installments": 1
+      },
+      "price": 29.90,
+      "date": "2021-08-21T14:20"
+    },
+    {
+      "id": 2,
+      "professional": {
+        "name": "Alexsandro Veiga Cliente",
+        "email": "sandro.alex_@hotmail.com",
+        "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+        "occupation": "Mêcanico Diesel"
+      },
+      "customer": {
+        "name": "Teste Cliente 2"
+      },
+      "payment_method": {
+        "type": "debit-card",
+        "card_number": "1234-1234-1234-1234",
+        "card_holder_name": "Alexsandro Veiga",
+        "card_expiration_date": "12/2021",
+        "card_cvv": "123",
+        "card_brand": "visa",
+        "installments": 1
+      },
+      "price": 150,
+      "date": "2021-08-21T14:20"
+    },
+    {
+      "id": 3,
+      "professional": {
+        "name": "Alexsandro Veiga Cliente",
+        "email": "sandro.alex_@hotmail.com",
+        "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
+        "occupation": "Mêcanico Diesel"
+      },
+      "customer": {
+        "name": "Teste Cliente 3"
+      },
+      "payment_method": {
+        "type": "credit-card",
+        "card_number": "1234-1234-1234-1234",
+        "card_holder_name": "Alexsandro Veiga",
+        "card_expiration_date": "12/2021",
+        "card_cvv": "123",
+        "card_brand": "visa",
+        "installments": 1
+      },
+      "price": 29.90,
+      "date": "2021-08-21T14:20"
     }
   ]
 }
