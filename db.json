@@ -203,5 +203,34 @@
       "price": 29.90,
       "date": "2021-08-21T14:20"
     }
+  ],
+  "calls": [
+    {
+      "id": 1,
+      "status": "pending",
+      "subject": "Gostaria de saber porque me cobraram <b>50</b> reais nesse corte de cabelo que era 20",
+      "user": {
+        "name": "Suelen Silva"
+      },
+      "date": "2021-08-21T14:20"
+    },
+    {
+      "id": 2,
+      "status": "solved",
+      "subject": "A porra do meu carro ainda continua com problema na embreagem",
+      "user": {
+        "name": "Alexsandro Veiga"
+      },
+      "date": "2021-08-21T14:20"
+    },
+    {
+      "id": 3,
+      "status": "unsolved",
+      "subject": "Gostaria de saber porque me cobraram <b>100</b> reais no reflexo que era 40",
+      "user": {
+        "name": "Barbeiro X"
+      },
+      "date": "2021-08-21T14:20"
+    }
   ]
 }
