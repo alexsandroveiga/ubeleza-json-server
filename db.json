@@ -208,7 +208,8 @@
     {
       "id": 1,
       "status": "pending",
-      "subject": "Gostaria de saber porque me cobraram <b>50</b> reais nesse corte de cabelo que era 20",
+      "subject": "Preço abusivo no corte",
+      "context": "Gostaria de saber porque me cobraram <b>50</b> reais nesse corte de cabelo que era 20",
       "user": {
         "name": "Suelen Silva"
       },
@@ -217,7 +218,8 @@
     {
       "id": 2,
       "status": "solved",
-      "subject": "A porra do meu carro ainda continua com problema na embreagem",
+      "subject": "Serviço mal feito",
+      "context": "A porra do meu carro ainda continua com problema na embreagem",
       "user": {
         "name": "Alexsandro Veiga"
       },
@@ -226,7 +228,8 @@
     {
       "id": 3,
       "status": "unsolved",
-      "subject": "Gostaria de saber porque me cobraram <b>100</b> reais no reflexo que era 40",
+      "subject": "Furto",
+      "context": "Gostaria de saber porque me cobraram <b>100</b> reais no reflexo que era 40",
       "user": {
         "name": "Barbeiro X"
       },
