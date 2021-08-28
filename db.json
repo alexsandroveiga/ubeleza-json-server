@@ -106,7 +106,9 @@
       "email": "sandro.alex_@hotmail.com",
       "avatar": "https://avatars.githubusercontent.com/u/53938111?v=4",
       "password": "123456",
-      "role": "admin"
+      "role": "admin",
+      "phone": "(21) 96468-8830",
+      "bio": "Sou mêcanico"
     },
     {
       "id": 2,
@@ -114,7 +116,9 @@
       "email": "joneivison@ubeleza.com.br",
       "avatar": "https://avatars.githubusercontent.com/u/59972145?v=4",
       "password": "123456",
-      "role": "editor"
+      "role": "editor",
+      "phone": "(21) 99999-9999",
+      "bio": "Sou desenvolvedor"
     },
     {
       "id": 3,
@@ -122,7 +126,9 @@
       "email": "renanbrito@ubeleza.com.br",
       "avatar": null,
       "password": "123456",
-      "role": "moderator"
+      "role": "moderator",
+      "phone": "(21) 99999-9999",
+      "bio": "Sou o chefão"
     },
     {
       "id": 4,
@@ -130,7 +136,9 @@
       "email": "judith@ubeleza.com.br",
       "avatar": null,
       "password": "123456",
-      "role": "admin"
+      "role": "admin",
+      "phone": "(21) 99999-9999",
+      "bio": ""
     }
   ],
   "orders": [
